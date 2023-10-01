@@ -1,6 +1,6 @@
 # Quantium • Software Engineering 
 
-![Screenshot (416)](https://github.com/SimraanK/quantium-starter-repo/assets/99394288/a6f8fb87-7ff5-404c-be20-f39bf7082e28)
+
 
 
 The Quantium Software Engineering Virtual Experience Program is an immersive virtual learning opportunity designed to provide participants with valuable insights into the world of software engineering. This README file serves as your guide to navigating and making the most of this virtual experience. Whether you are a student, aspiring software engineer, or anyone interested in gaining practical knowledge in software development, this program is designed to help you grow and expand your skillset.
